@@ -1,1 +1,4 @@
-js/lua developer
+js & lua developer
+
+contact: @darkmeleee | darkmeleee#2789
+
