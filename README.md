@@ -11,8 +11,8 @@ const darkmeleee = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite", "postgresql"],
+        devOps: ["AWS", "Docker", "Nginx"],
+        databases: ["mongodb", "MySql", "sqlite", "postgresql"],
         misc: ["Socket.IO", "selenium", "open-cv", "php"]
     },
   architecture: ["microservices", "Progressive web applications", "Single page applications"],
