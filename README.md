@@ -20,7 +20,7 @@ const darkmeleee = {
 }
 ```  
 <em><b>I love connecting with people</b>, so if you want to say <b>hi, I'll be happy to chat with you.</b></em> 
-<p>npx darkmeleee </p>
+<p>npx darkmeleeee </p>
 ---
 
 
